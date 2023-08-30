@@ -1,0 +1,34 @@
+.subtitle{
+    margin: 15px;
+    padding: 0;
+}
+
+.container{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.image{
+    float: right;
+    margin: 0 0 20px 20px;
+    height: auto;
+    width: 25%;
+}
+
+.image2{
+    float: left;
+    margin: 0 20px 20px 0;
+    height: auto;
+    width: 25%;
+}
+
+p{
+    font-size: 18px;
+}
+
+.innerTitle{
+    font-size: 24px;
+    margin: 0;
+    padding: 0 0 0 20px
+}
